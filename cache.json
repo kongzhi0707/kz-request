@@ -1,0 +1,11 @@
+{
+    "GET-https://api.github.com/users/k": {
+        "method": "GET",
+        "header": "application/json",
+        "url": "https://api.github.com/users/kongzhi0707/repos",
+        "token": "",
+        "params": "",
+        "response": "json",
+        "cache": true
+    }
+}
